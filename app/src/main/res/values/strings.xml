@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoActivity</string>
+    <string name="title_activity_square_of_number">SquareOfNumberActivity</string>
+</resources>
